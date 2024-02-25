@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying Diplma in Web Design and Development in Canada
-- 🌱 I’m currently learning Web Development, java, javascript, css, python, sql, maven, k8s, gpt...
+- 🌱 I’m currently learning Web Development, java, javascript, css, python, sql, maven, k8s, gpt, deep learning...
 - 👯 I’m looking to collaborate on a place to stay in Canada
 - 🤔 I’m looking for help with a co-op job
-- 💬 Interest in anything about IT
+- 💬 Interest in anything about computer
 - 📫 How to reach me: henrywat@gmail.com
 - 😄 Pronouns: Sir
 - ⚡ Fun fact: Smiling and Motorcycling
