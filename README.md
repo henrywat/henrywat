@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-- 👯 I’m looking for a part-time job! I’m looking for a part-time job! 
-- 🔭 I’m currently studying Diplma in Web Design and Development with CO-OP in Canada
-- 🌱 I’m currently learning Web Development, java, javascript, css, python, sql, maven, k8s, gpt, deep learning...
-- 🤔 I’m looking for help with a co-op job
+- 🌱 I’m interesting in Web Development, Networking, java, javascript, css, python, ansible, sql, maven, k8s, gpt, deep learning...
 - 💬 Interest in anything about computer
 - 📫 How to reach me: henrywat@gmail.com
 - 😄 Pronouns: Sir
